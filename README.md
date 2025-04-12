@@ -8,4 +8,4 @@ I am moving as many of my projects away from US companies as possible. Codeberg 
 
 [![Find me on Codeberg](codeberg.png)](https://codeberg.org/jjfalling/)
 
-Find all of the previous gists here: https://codeberg.org/jjfalling/snippets
+All gists have been moved to this repo: https://codeberg.org/jjfalling/snippets
