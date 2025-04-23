@@ -2,7 +2,7 @@
 
 ### Why this move? 
 
-I am moving as many of my projects away from US companies as possible. Codeberg is a nonprofit and libre-friendly platform based in Germany. 
+I am moving as many of my projects away from US companies, especially those using my data to train their AI models, as possible. Codeberg is a nonprofit and libre-friendly platform based in Germany. 
 
 
 
